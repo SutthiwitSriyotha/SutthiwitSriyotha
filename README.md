@@ -6,7 +6,8 @@ Software Engineering Student
 
 Software Engineering student at the University of Phayao with internship experience in Next.js, TypeScript, and Agile. Skilled in building paperless digital systems and QR-based management tools. Passionate about developing efficient, scalable web applications and eager to contribute to a professional development team.
 
-* 🖥️  See my portfolio at [MyPortfolio](https://myportfoliosutthiwitsriyotha.netlify.app/)
+* 🖥️ See my portfolio at [MyPortfolio](https://sutthiwit-sriyotha.github.io/portfolio/).
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,git,ts,js,vscode,html,nuxtjs,nextjs,vue,react,css,tailwind,mui,nodejs,nestjs,mongodb,mysql,figma,docker&perline=19" alt="My Skills" />
